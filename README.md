@@ -1,5 +1,5 @@
 # Todo App with API
-- [DEMO LINK](https://maksym-mishchanchuk.github.io/todo-app-api/)
+- [DEMO LINK](https://maksym-mishchanchuk.github.io/layout_landing-page/)
 
 # Technology
 - React
